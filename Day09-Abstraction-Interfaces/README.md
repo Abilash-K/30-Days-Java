@@ -554,6 +554,6 @@ Tomorrow, we'll explore **Encapsulation and Access Modifiers**!
 
 ---
 
-**Next**: [Day 10 - Encapsulation](../Day10/README.md)
+**Next**: [Day 10 - Encapsulation](../Day10-Encapsulation/README.md)
 
-**Previous**: [Day 08 - Inheritance and Polymorphism](../Day08/README.md)
+**Previous**: [Day 08 - Inheritance and Polymorphism](../Day08-Inheritance-Polymorphism/README.md)

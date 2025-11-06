@@ -471,6 +471,6 @@ Tomorrow, we'll explore **Classes and Objects**!
 
 ---
 
-**Next**: [Day 07 - Classes and Objects](../Day07/README.md)
+**Next**: [Day 07 - Classes and Objects](../Day07-Classes-Objects/README.md)
 
 **Previous**: [Day 05 - Arrays](../Day05-Arrays/README.md)
