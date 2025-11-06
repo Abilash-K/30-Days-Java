@@ -72,6 +72,6 @@ Tomorrow, we'll explore **Abstraction and Interfaces**!
 
 ---
 
-**Next**: [Day 09 - Abstraction and Interfaces](../Day09/README.md)
+**Next**: [Day 09 - Abstraction and Interfaces](../Day09-Abstraction-Interfaces/README.md)
 
 **Previous**: [Day 07 - Classes and Objects](../Day07-Classes-Objects/README.md)
